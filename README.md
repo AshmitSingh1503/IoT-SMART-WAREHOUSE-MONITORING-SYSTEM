@@ -1,8 +1,8 @@
 # SENTINEL: IoT Smart Warehouse Monitoring System (ESP32 + RFID)
 
-🏆 **Best Paper Award (Track 4), NCEA-SSEM 2026**: National Student Conference on Emerging AI and Sustainable Smart Engineering & Management, organized by the IEEE Student Branches & WIE Affinity Groups, JSS University, Noida (23 September 2026)
+**Best Paper Award (Track 4), NCEA-SSEM 2026**: National Student Conference on Emerging AI and Sustainable Smart Engineering & Management, organized by the IEEE Student Branches & WIE Affinity Groups, JSS University, Noida (23 September 2026)
 
-📄 **[Read the paper (PDF)](paper/Smart-Warehouse-Monitoring-ESP32-RFID.pdf)** · 🎓 **[View the certificate](paper/best-paper-certificate.jpg)**
+ **[Read the paper (PDF)](paper/Smart-Warehouse-Monitoring-ESP32-RFID.pdf)** ·  **[View the certificate](paper/best-paper-certificate.jpg)**
 
 **Authors:** Ashmit Singh, Saanvi Dheer, Harshpreet Kaur, Aditya Mishra, Akshita Gupta
 Dept. of Electronics and Communication Engineering, JSS University, Noida
@@ -74,8 +74,8 @@ This project is described in the paper **"Smart Warehouse Monitoring System Inte
 
 The paper covers the hardware interfacing, the polling firmware architecture, the threshold-based alert logic, the simulation-first test methodology (Wokwi, then a physical breadboard prototype), and the design limitations a production deployment would need to address.
 
-- 📄 [Full paper (PDF)](paper/Smart-Warehouse-Monitoring-ESP32-RFID.pdf)
-- 🎓 [Best Paper Award certificate](paper/best-paper-certificate.jpg)
+-  [Full paper (PDF)](paper/Smart-Warehouse-Monitoring-ESP32-RFID.pdf)
+-  [Best Paper Award certificate](paper/best-paper-certificate.jpg)
 
 ### Citation
 
