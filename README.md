@@ -1,4 +1,13 @@
-# IoT Smart Warehouse Monitoring System
+# SENTINEL: IoT Smart Warehouse Monitoring System (ESP32 + RFID)
+
+🏆 **Best Paper Award (Track 4), NCEA-SSEM 2026**: National Student Conference on Emerging AI and Sustainable Smart Engineering & Management, organized by the IEEE Student Branches & WIE Affinity Groups, JSS University, Noida (23 September 2026)
+
+📄 **[Read the paper (PDF)](paper/Smart-Warehouse-Monitoring-ESP32-RFID.pdf)** · 🎓 **[View the certificate](paper/best-paper-certificate.jpg)**
+
+**Authors:** Ashmit Singh, Saanvi Dheer, Harshpreet Kaur, Aditya Mishra, Akshita Gupta
+Dept. of Electronics and Communication Engineering, JSS University, Noida
+
+---
 
 An ESP32-based IoT system designed for real-time warehouse monitoring, environmental sensing, motion detection, RFID identification, local alerts, and cloud-based data visualization.
 
@@ -56,3 +65,28 @@ The ESP32 acts as the central processing and communication unit of the system.
                        │  Blynk IoT  │
                        │  Dashboard  │
                        └─────────────┘
+
+---
+
+## Research Paper
+
+This project is described in the paper **"Smart Warehouse Monitoring System Integrating ESP-32 and RFID Identification"**, which won the **Best Paper Award (Track 4)** at NCEA-SSEM 2026, JSS University, Noida.
+
+The paper covers the hardware interfacing, the polling firmware architecture, the threshold-based alert logic, the simulation-first test methodology (Wokwi, then a physical breadboard prototype), and the design limitations a production deployment would need to address.
+
+- 📄 [Full paper (PDF)](paper/Smart-Warehouse-Monitoring-ESP32-RFID.pdf)
+- 🎓 [Best Paper Award certificate](paper/best-paper-certificate.jpg)
+
+### Citation
+
+```bibtex
+@inproceedings{singh2026sentinel,
+  title     = {Smart Warehouse Monitoring System Integrating ESP-32 and RFID Identification},
+  author    = {Singh, Ashmit and Dheer, Saanvi and Kaur, Harshpreet and Mishra, Aditya and Gupta, Akshita},
+  booktitle = {National Student Conference on Emerging AI and Sustainable Smart Engineering \& Management (NCEA-SSEM 2026)},
+  organization = {IEEE Student Branches \& WIE Affinity Groups, JSS University},
+  address   = {Noida, India},
+  year      = {2026},
+  note      = {Best Paper Award, Track 4}
+}
+```
